@@ -2,7 +2,7 @@
   "name": "vscode-bookmark",
   "displayName": "vscode_bookmark",
   "description": "Code Bookmark by adding link into Markdown file",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.98.0"
   },

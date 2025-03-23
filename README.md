@@ -20,6 +20,6 @@ A VSCode extension to manage bookmarks in markdown file.
     - Create new bookmark
     - Switch between bookmark note
 
-### 0.0.1
+### 1.0.0
 
 Initial release of Bookmark extension
