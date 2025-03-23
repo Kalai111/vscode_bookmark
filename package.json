@@ -14,8 +14,19 @@
   "contributes": {
     "commands": [
       {
-        "command": "vscode-bookmark.helloWorld",
-        "title": "Hello World"
+        "command": "extension.createMarkdownNote",
+        "title": "Create New Bookmark Note",
+        "category": "MD Bookmark"
+      },
+      {
+        "command": "extension.switchMarkdownNote",
+        "title": "Switch Bookmark Note",
+        "category": "MD Bookmark"
+      },
+      {
+        "command": "extension.createMarkdownBookmark",
+        "title": "Create New Bookmark",
+        "category": "MD Bookmark"
       }
     ]
   },
